@@ -20,7 +20,7 @@ This project is a decentralized Agriculture Supply Chain system built using PHP,
 
 👤 Farmer Dashboard
 ![image alt](https://github.com/shivashankargouda01/BlockChainProject/blob/10d5b67ab1a669b3fc7d2ce7e2fbc6ae9bfcc3cd/Screenshots/Screenshot%20(304).png)
-![image alt]()
+![image alt](https://github.com/shivashankargouda01/BlockChainProject/blob/9e4ecb6c91c5afb55d9e03e35ed79c0c1de7e930/Screenshots/Screenshot%20(308).png)
 🛍️ Seller View
 ![image alt]()
 ![image alt]()
