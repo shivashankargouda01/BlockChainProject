@@ -23,10 +23,11 @@ This project is a decentralized Agriculture Supply Chain system built using PHP,
 ![image alt](https://github.com/shivashankargouda01/BlockChainProject/blob/9e4ecb6c91c5afb55d9e03e35ed79c0c1de7e930/Screenshots/Screenshot%20(308).png)
 🛍️ Seller View
 ![image alt](https://github.com/shivashankargouda01/BlockChainProject/blob/fe0410dc3f9deaab4ee15eda14f798a81812e481/Screenshots/Screenshot%20(318).png)
-![image alt]()
+![image alt](https://github.com/shivashankargouda01/BlockChainProject/blob/01c6496e659226f801a770ec9de15ee261c6806c/Screenshots/Screenshot%20(312).png)
 🔍 Consumer Verification
-![image alt]()
-![image alt]()
+![image alt](https://github.com/shivashankargouda01/BlockChainProject/blob/01c6496e659226f801a770ec9de15ee261c6806c/Screenshots/Screenshot%20(312).png)
+![image alt](https://github.com/shivashankargouda01/BlockChainProject/blob/01c6496e659226f801a770ec9de15ee261c6806c/Screenshots/Screenshot%20(323).png)
+![image alt](https://github.com/shivashankargouda01/BlockChainProject/blob/01c6496e659226f801a770ec9de15ee261c6806c/Screenshots/Screenshot%20(325).png)
 
 ⚙ How It Works
 
